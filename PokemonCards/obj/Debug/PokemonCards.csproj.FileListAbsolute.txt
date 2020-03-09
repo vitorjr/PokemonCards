@@ -1,0 +1,17 @@
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\PokemonCards.exe.config
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\PokemonCards.exe
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\PokemonCards.pdb
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\HtmlAgilityPack.dll
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\Newtonsoft.Json.dll
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\Ninject.dll
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\HtmlAgilityPack.pdb
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\HtmlAgilityPack.xml
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\Newtonsoft.Json.xml
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\FitBank\PokemonCards\PokemonCards\bin\Debug\Ninject.xml
+C:\FitBank\PokemonCards\PokemonCards\obj\Debug\PokemonCards.csprojAssemblyReference.cache
+C:\FitBank\PokemonCards\PokemonCards\obj\Debug\PokemonCards.csproj.CopyComplete
+C:\FitBank\PokemonCards\PokemonCards\obj\Debug\PokemonCards.exe
+C:\FitBank\PokemonCards\PokemonCards\obj\Debug\PokemonCards.pdb

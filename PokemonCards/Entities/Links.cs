@@ -8,6 +8,5 @@ namespace PokemonCards.Entities
 {
     class Links
     {
-
     }
 }
