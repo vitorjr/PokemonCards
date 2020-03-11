@@ -25,7 +25,15 @@ namespace PokemonCards.Entities
 
         public override string ToString()
         {
-            return base.ToString();
+            StringBuilder x = new StringBuilder();
+
+            x.AppendLine($"- Nome: {Name}")
+                .AppendLine($"- Modelo: {Numeracao}")
+                .AppendLine($"- Tipo de Carta: {Expansao}")
+                .AppendLine($"- Imagem Base64: {Image}")
+                .AppendLine();
+
+            return x.ToString();
         }
     }
 }
